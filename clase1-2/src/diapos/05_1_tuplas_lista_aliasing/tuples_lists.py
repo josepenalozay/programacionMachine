@@ -92,7 +92,7 @@ L.reverse()
 
 
 #########################
-## EXAMPLE: aliasing
+## EXAMPLE: 05_1_aliasing
 #########################
 a = 1
 b = a

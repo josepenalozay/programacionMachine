@@ -1,5 +1,5 @@
 #########################
-## EXAMPLE: aliasing
+## EXAMPLE: 05_1_aliasing
 #########################
 universidades = ['UNI', 'PUCP', 'UNMSM']
 casas_de_estudio = universidades

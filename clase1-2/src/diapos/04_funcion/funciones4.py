@@ -1,11 +1,11 @@
 def una_funcion(parametro):
     variable = 1
     variable +=1
-    print("una funcion: variable=",variable)
+    print("una 04_funcion: variable=",variable)
 
 def otra_funcion(parametro):
-    print("otra funcion: variable=", variable)
-    print("otra funcion: variable+1=", variable+1)
+    print("otra 04_funcion: variable=", variable)
+    print("otra 04_funcion: variable+1=", variable+1)
 
 def la_funcion(parametro):
     variable+=1
