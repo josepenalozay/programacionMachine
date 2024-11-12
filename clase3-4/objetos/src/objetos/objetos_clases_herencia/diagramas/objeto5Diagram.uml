@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/ws/wsMaestriaFIIS/PreClase-MIA-101/clase3-4/src/objetos/objetos_clases_herencia/objeto5.py</OriginalElement>
+  <nodes>
+    <node x="-70.5" y="-14.438036941325208">typing.Hashable</node>
+    <node x="-133.0" y="100.56196305867479">object</node>
+    <node x="-148.0" y="722.5619626569695">objetos_clases_herencia.objeto5.Animal</node>
+    <node x="-146.5" y="992.5619623449945">objetos_clases_herencia.objeto5.Rabbit</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="objetos_clases_herencia.objeto5.Animal" target="object" relationship="REALIZATION">
+      <point x="0.0" y="-104.5" />
+      <point x="0.0" y="280.5" />
+    </edge>
+    <edge source="object" target="typing.Hashable" relationship="REALIZATION">
+      <point x="0.0" y="-280.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="objetos_clases_herencia.objeto5.Rabbit" target="objetos_clases_herencia.objeto5.Animal" relationship="REALIZATION">
+      <point x="0.0" y="-137.5" />
+      <point x="0.0" y="104.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.5886415963161934" showDependencies="false" x="10.999999999999773" y="636.5" />
+  <SelectedNodes>
+    <node>object</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+</Diagram>
+

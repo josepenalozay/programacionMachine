@@ -1,0 +1,14 @@
+build/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+env/
+*.pytest_cache*
+*.o
+*.a
+*.pyc
+/output/logs/*
+/output/*
+/.idea/aagg.iml
+/lectura/binario.jpg

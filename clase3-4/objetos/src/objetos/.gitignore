@@ -1,0 +1,12 @@
+build/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+*.pytest_cache*
+*.o
+*.a
+*.pyc
+/output/logs/*
+/output/*
+/.idea/aagg.iml
